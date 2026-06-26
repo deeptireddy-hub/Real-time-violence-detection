@@ -11,16 +11,16 @@ from PIL import Image
 import io
 
 # --- Your Email Credentials ---
-EMAIL_SENDER = 'mytaskviolencedetection@gmail.com'
-EMAIL_PASSWORD = 'ucgasbbjruvtdrag'
-EMAIL_RECEIVER = 'sirapadeeptireddy@gmail.com'
+EMAIL_SENDER = 'system@gmail.com'
+EMAIL_PASSWORD = '16letters password'
+EMAIL_RECEIVER = 'user@gmail.com'
 
 # --- Your Twilio Credentials ---
-TWILIO_SID = 'ACb2a2bbd69776f11d1ebd6a9da52bf8a4'
-TWILIO_AUTH_TOKEN = '4eeaa80694a9297d70d1228e6741a97d'
-TWILIO_PHONE_NUMBER = '+17249953314'
-RECEIVER_PHONE_NUMBER = '+919963956965'
-TWIML_BIN_URL = 'https://handler.twilio.com/twiml/EH037952d2b1f46f9a0b1b538354cc477d'
+TWILIO_SID = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
+TWILIO_AUTH_TOKEN = 'XXXXXXXXXXXXXXXXX'
+TWILIO_PHONE_NUMBER = 'XXXXXXX'
+RECEIVER_PHONE_NUMBER = 'User number'
+TWIML_BIN_URL = 'https://handler.twilio.com/.......'
 
 # --- Timeout ---
 NETWORK_TIMEOUT = 15
